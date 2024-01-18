@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-w24/jpa02-Maria-Saucedo
 
-Deployed at: https://jpa02-Maria-Saucedo.dokku-06.cs.ucsb.edu
+Deployed at: http://jpa02-Maria-Saucedo.dokku-06.cs.ucsb.edu
 
 
 # About this repo
